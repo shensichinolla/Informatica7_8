@@ -16,5 +16,18 @@ h1{
                 }
 
 nav{
-    text-align:right
+    text-align:right;
+    display:flex;
+    justify-content:space-between;
+    gap: 10px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+div{
+    display:flex;
+    justify-content:center;
 }
