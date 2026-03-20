@@ -1,3 +1,13 @@
+#lds{
+    font-size:0.8rem;
+    text-align:center;
+    heigth:80px;
+    width:100px;
+
+}
+
+
+
 h1{
         text-align:center
 }
@@ -19,15 +29,41 @@ nav{
     text-align:right;
     display:flex;
     justify-content:space-between;
-    gap: 10px;
+    gap:2rem;;
+    align-items:center;
 }
 
+.navleft{
+    display:flex;
+    gap:1rem;
+    justify-content:flex-end;
+}
+.headertop{
+    align-items:center;
+    display:flex;
+    gap:4rem;
+    border-bottom:1px solid lightgray;
+    flex-wrap:wrap;
+    justify-content:space-between;
+}
 header {
     display: flex;
     justify-content: space-between;
+    flex-wrap:wrap;
+    padding-bottom:10px;
+    padding-top:10px;
+    border-bottom:1px solid gray;
 }
 
 div{
     display:flex;
     justify-content:center;
+}
+article{
+    text-align:center;
+}
+.nav2{
+    display:flex;
+    gap:1rem;
+    align-items:center;
 }
