@@ -4,4 +4,8 @@ h1{
 }
 p{
     font-family:arial;
+    color:white;
+}
+body{
+    background-color:black;
 }
