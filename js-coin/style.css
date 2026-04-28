@@ -1,0 +1,17 @@
+button{
+    margin:50px;
+    padding: 90px;
+    font-size:80px;
+    background-color:#FF69B4;
+    color:white;
+    border-width:10px;
+}
+h1{
+    color:#FF69B4;
+}
+body{
+    text-align:center;
+}
+h2{
+    font-size:50px;
+}
