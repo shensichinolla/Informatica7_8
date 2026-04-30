@@ -10,5 +10,6 @@ function flipcoin(){
         subtitle.innerHTML="Tails";
         subtitle.style.color="blue";
     }
+    
 
 }
