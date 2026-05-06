@@ -24,10 +24,10 @@ function game(userChoice){
     console.log(compChoice)
 }
 
-//document.addEventListener('DOMContentLoaded', function(){
-    //code here
-    //document.querySelector("#rock-button").onclick=
+// document.addEventListener('DOMContentLoaded', function(){
+//      //code here
+// document.querySelector("#rock-button").onclick=
 
-    });
-}
+// });
+// // }
 
