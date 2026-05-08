@@ -10,13 +10,19 @@ h1{
     text-align:center;
     color:#FF1493;
 }
-
 div{
     width: 80px;
     border-radius: 20px;
     background-color:black;
     border:5px;
+    margin:20px;
+
 }
 body{
     text-align:center;
+    display:flex;
+    justify-content:center;
+    margin:0; */
+
 }
+
