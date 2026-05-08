@@ -1,0 +1,22 @@
+.instrument{
+    background-color: #CBC3E3;
+}
+.active{
+    background-color:#FF1493;
+    color:white;
+}
+
+h1{
+    text-align:center;
+    color:#FF1493;
+}
+
+div{
+    width: 80px;
+    border-radius: 20px;
+    background-color:black;
+    border:5px;
+}
+body{
+    text-align:center;
+}
