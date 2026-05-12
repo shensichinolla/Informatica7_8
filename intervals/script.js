@@ -1,13 +1,14 @@
-let counter = 60;
+let counter = 1500;
+let timerId = null;
 
 function count() {
-    counter--;
-    document.querySelector('h1').innerHTML = counter;
-}
+if (counter > 0) {
+counter--;
 
-document.addEventListener('DOMContentLoaded', function() {
-    document.querySelector('button').onclick = function(){
-    setInterval(count, 1000);
-    document.querySelector("button").disabled="true";
-    };
-});
+let minutes = Math.floor(counter / 60);
+let seconds = counter % 60;
+
+
+
+
+
